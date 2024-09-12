@@ -22,10 +22,8 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
-    "@pixi/react": "^7.1.2",
-    "@pixi/unsafe-eval": "^7.4.2",
     "electron-updater": "^6.1.7",
-    "pixi.js": "^7.4.2"
+    "pixi.js": "^8.4.0"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",
